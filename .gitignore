@@ -1,0 +1,5 @@
+common-base/target/
+stock-service/target/
+wms-service/target/
+order-service/target/
+feign-interface/target/
