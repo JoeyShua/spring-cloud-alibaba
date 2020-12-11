@@ -1,9 +1,9 @@
 server:
-  port: 9000
+  port: 9003
 
 spring:
   application:
-    name: order-service
+    name: credit-service
 
   cloud:
     nacos:

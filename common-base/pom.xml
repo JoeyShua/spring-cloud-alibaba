@@ -32,6 +32,7 @@
             <version>2.1.0.RELEASE</version>
         </dependency>
 
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -68,5 +69,13 @@
 
     </dependencies>
 
+
+   <!-- <repositories>
+        <repository>
+            <id>nexus-releases</id>
+            <name>nexus-releases</name>
+            <url>http://20.26.17.81:8081/repository/maven-public/</url>
+        </repository>
+    </repositories>-->
 
 </project>
